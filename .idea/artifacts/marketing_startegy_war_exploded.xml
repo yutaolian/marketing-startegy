@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="marketing-startegy:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/marketing_startegy_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="marketing-startegy/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="marketing-startegy" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-admin-parent/live-web-admin/src/main/resources/test/activemq.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-api-parent-3.0/live-model/src/main/java/com/gaosiedu/live/beans/user/shoppingcar/TShoppingCartPriceParam.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-api-parent-3.0/live-open-api/src/main/java/com/gaosiedu/live/api/biz/order/impl/OrderBizImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-api-parent-3.0/live-open-api/src/main/java/com/gaosiedu/live/api/biz/user/coupon/impl/UserCouponBizImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-api-parent-3.0/live-open-api/src/main/java/com/gaosiedu/live/api/cache/coupon/CourseCouponCache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-api-parent-3.0/live-open-api/src/main/java/com/gaosiedu/live/api/cache/user/UserCouponInfoCache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-api-parent-3.0/live-open-api/src/main/java/com/gaosiedu/live/api/listener/coupon/CouponChangeListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-api-parent-3.0/live-open-api/src/main/java/com/gaosiedu/live/api/listener/user/UserCouponChangeListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-api-parent-3.0/live-open-api/src/main/java/com/gaosiedu/live/api/strategy/temp/RuleSubjectCouponDerateTempStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-api-parent-3.0/live-open-api/src/main/resources/application-pre.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-api-parent-3.0/live-open-api/src/main/resources/application-test.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-api-parent-3.0/live-open-api/src/main/resources/spring-mq.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-api-parent-3.0/live-service-provider/src/main/assembly/bin/start.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-api-parent-3.0/live-service-provider/src/main/assembly/bin/stop.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-api-parent-3.0/live-service-provider/src/main/assembly/pre/db.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-api-parent-3.0/live-service-provider/src/main/resources/META-INF/spring/application-serivce-provider.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-api-parent-3.0/live-service-provider/src/main/resources/META-INF/spring/spring-mybatis.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lib/spring-beans-4.3.18.RELEASE.jar!/org/springframework/beans/factory/BeanFactory.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/context/support/XmlWebApplicationContext.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marketing/MarketingStrategyParam.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marketing/MarketingStrategyTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marketing/impl/StrategyA.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marketing/impl/StrategyB.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marketing/strategy/AbstractStrategyRule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marketing/strategy/BaseStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marketing/strategy/MarketingContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marketing/strategy/MarketingStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marketing/strategy/StrategyContent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marketing/strategy/StrategyRule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marketing/strategy/condition/Condation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marketing/strategy/condition/StrategyCondation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/test/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/test/util/SpringContextUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

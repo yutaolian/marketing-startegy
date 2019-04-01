@@ -1,6 +1,5 @@
 package com.test;
 
-import com.alibaba.fastjson.JSONObject;
 import com.test.biz.Orders;
 import com.test.strategy.MarketingContext;
 import com.test.strategy.MarketingStrategyParam;
@@ -30,7 +29,7 @@ public class App {
         strategyContent.setCondations(Arrays.asList(strategyCondation));
 
 
-        System.out.println(JSONObject.toJSONString(strategyContent));
+       // System.out.println(JSONObject.toJSONString(strategyContent));
 
 
         MarketingStrategyParam strategyParam = MarketingStrategyParam.builder()
