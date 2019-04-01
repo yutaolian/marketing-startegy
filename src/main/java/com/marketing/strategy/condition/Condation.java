@@ -5,7 +5,6 @@ package com.marketing.strategy.condition;
 
 import lombok.Data;
 
-import java.io.Serializable;
 import java.util.List;
 
 /**
@@ -15,7 +14,7 @@ import java.util.List;
  * @date 2019/3/26 9:23
  */
 @Data
-public class Condation<T> implements Serializable{
+public abstract class Condation<T> {
 
     /**
      * 指定某个

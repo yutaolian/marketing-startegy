@@ -3,13 +3,10 @@
  */
 package com.marketing;
 
-import com.google.gson.Gson;
-import com.marketing.strategy.MarketingContext;
-import com.marketing.strategy.condition.StrategyCondation;
+import com.marketing.strategy.StrategyCondation;
 import com.marketing.strategy.StrategyContent;
 import com.marketing.strategy.StrategyRule;
 import com.marketing.strategy.condition.Condation;
-import com.test.strategy.impl.StartegyA;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
@@ -60,7 +57,7 @@ public class MarketingStrategyTest {
 
         //条件1
 
-        StrategyCondation subCondation2 = StrategyCondation.builder().multCondation(subCondationMap2).build();
+        StrategyCondation subCondation2 = StrategyCondation.builder().or(subCondationMap2).build();
 
 
 
@@ -75,14 +72,14 @@ public class MarketingStrategyTest {
 
         //条件1
 
-        StrategyCondation subCondation = StrategyCondation.builder().multCondation(subCondationMap).subCondatiion(subCondation2).build();
+        StrategyCondation subCondation = StrategyCondation.builder().or(subCondationMap).build();
 
         //条件1
 
-        StrategyCondation strategyCondation = StrategyCondation.builder().multCondation(condationMap).subCondatiion(subCondation).build();
+        StrategyCondation strategyCondation = StrategyCondation.builder().or(condationMap).build();
 
 
-        strategyContent.setCondations(Arrays.asList(strategyCondation));
+//        strategyContent.(Arrays.asList(strategyCondation));
 
         //结果
 

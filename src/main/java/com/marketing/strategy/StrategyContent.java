@@ -1,10 +1,8 @@
 package com.marketing.strategy;
 
 
-import com.marketing.strategy.condition.StrategyCondation;
 import lombok.Data;
 
-import java.util.List;
 import java.util.Map;
 
 /**
@@ -32,7 +30,7 @@ public class StrategyContent {
     /**
      * 策略的条件 多条件之间是或的关系
      */
-    private List<StrategyCondation> condations;
+//    private List<StrategyCondation> condations;
 
 
     private StrategyCondation condation;
