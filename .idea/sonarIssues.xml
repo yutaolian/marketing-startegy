@@ -8,12 +8,57 @@
             <set />
           </value>
         </entry>
+        <entry key="D:/axxonile-gitlib/live-admin-parent/live-shiro/src/main/java/com/gaosiedu/live/shiro/redis/RedisWebSessionManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-admin-parent/live-shiro/src/main/resources/spring-shiro.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-admin-parent/live-web-admin/src/main/resources/jdbc.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-admin-parent/live-web-admin/src/main/resources/prod/spring-mq.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="D:/axxonile-gitlib/live-admin-parent/live-web-admin/src/main/resources/test/activemq.properties">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="D:/axxonile-gitlib/live-admin-parent/live-web-admin/src/main/webapp/WEB-INF/jsp/course/audition.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-admin-parent/live-web-admin/src/main/webapp/WEB-INF/jsp/course/weightList.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-api-parent-3.0/live-model/src/main/java/com/gaosiedu/live/beans/register/RegisterParam.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="D:/axxonile-gitlib/live-api-parent-3.0/live-model/src/main/java/com/gaosiedu/live/beans/user/shoppingcar/TShoppingCartPriceParam.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-api-parent-3.0/live-open-api/src/main/java/com/gaosiedu/live/api/biz/course/impl/CourseBizImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-api-parent-3.0/live-open-api/src/main/java/com/gaosiedu/live/api/biz/course/impl/CourseClassBizImpl.java">
           <value>
             <set />
           </value>
@@ -34,6 +79,11 @@
           </value>
         </entry>
         <entry key="D:/axxonile-gitlib/live-api-parent-3.0/live-open-api/src/main/java/com/gaosiedu/live/api/cache/user/UserCouponInfoCache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/axxonile-gitlib/live-api-parent-3.0/live-open-api/src/main/java/com/gaosiedu/live/api/cacher/course/CourseCacher.java">
           <value>
             <set />
           </value>
@@ -89,6 +139,31 @@
           </value>
         </entry>
         <entry key="D:/axxonile-gitlib/live-api-parent-3.0/live-service-provider/src/main/resources/META-INF/spring/spring-mybatis.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gzgl-parent/live-core/src/main/resources/jdbc-dev.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gzgl-parent/live-web-admin/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gzgl-parent/live-web-admin/src/main/webapp/WEB-INF/jsp/info/faultImg.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gzgl-parent/live-web-admin/src/main/webapp/WEB-INF/jsp/info/trainImg.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gzgl-parent/live-web-admin/src/main/webapp/WEB-INF/web.xml">
           <value>
             <set />
           </value>

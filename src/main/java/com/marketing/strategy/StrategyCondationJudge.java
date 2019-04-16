@@ -4,7 +4,7 @@
 package com.marketing.strategy;
 
 
-import com.marketing.MarketingStrategyParam;
+import com.marketing.MarketingParam;
 
 /**
  * @author lianyutao
@@ -15,14 +15,14 @@ import com.marketing.MarketingStrategyParam;
 
 public interface StrategyCondationJudge {
 
-    default boolean judgeOr(MarketingStrategyParam strategyParam) {
+    default boolean judgeOr(MarketingParam strategyParam) {
 
 
 
         return false;
     }
 
-    default boolean judgeAnd(MarketingStrategyParam strategyParam) {
+    default boolean judgeAnd(MarketingParam strategyParam) {
 
         return false;
     }

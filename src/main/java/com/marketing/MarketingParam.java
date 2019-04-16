@@ -14,7 +14,7 @@ import lombok.experimental.Builder;
 
 @Data
 @Builder
-public class MarketingStrategyParam {
+public class MarketingParam {
 
     /**
      * 策略内容具体内容

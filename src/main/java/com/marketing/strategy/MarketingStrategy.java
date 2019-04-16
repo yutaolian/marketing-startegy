@@ -1,11 +1,7 @@
 package com.marketing.strategy;
 
 
-import com.marketing.MarketingStrategyParam;
-import com.marketing.strategy.condition.Condation;
-
-import java.util.List;
-import java.util.Map;
+import com.marketing.MarketingParam;
 
 /**
  * 抽象的策略类
@@ -22,7 +18,7 @@ public interface MarketingStrategy {
      * @param strategyParam
      * @return
      */
-    default boolean judge(MarketingStrategyParam strategyParam) {
+    default boolean judge(MarketingParam strategyParam) {
         //这个条件是策略的条件
         StrategyContent strategyContent = strategyParam.getStrategyContent();
         //具体的条件对象
@@ -40,6 +36,6 @@ public interface MarketingStrategy {
      *
      * @param strategyParam
      */
-    void execute(MarketingStrategyParam strategyParam);
+    void execute(MarketingParam strategyParam);
 
 }

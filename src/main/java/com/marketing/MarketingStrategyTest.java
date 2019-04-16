@@ -7,6 +7,7 @@ import com.marketing.strategy.StrategyCondation;
 import com.marketing.strategy.StrategyContent;
 import com.marketing.strategy.StrategyRule;
 import com.marketing.strategy.condition.Condation;
+import com.test.strategy.MarketingStrategyParam;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
@@ -15,6 +16,7 @@ import java.util.Arrays;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.stream.Stream;
 
 /**
  * @author lianyutao
@@ -98,8 +100,10 @@ public class MarketingStrategyTest {
 
        // System.out.println(strategyContent.getClass().getGenericInterfaces());
 
+        Stream.generate(Math::random).limit(5);
 
-        MarketingStrategyParam strategyParam = MarketingStrategyParam.builder()
+
+        MarketingParam strategyParam = MarketingParam.builder()
                 .strategyContent(strategyContent).build();
         //这行策略
         //new MarketingContext(strategyParam).execute();
